@@ -7,10 +7,10 @@
 ## Stat's
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gcrozatti&show_icons=true&theme=merko" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=gcrozatti&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcrozatti&hide_progress=true&layout=compact&langs_count=8&theme=merko&card_width=320" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcrozatti&hide_progress=true&layout=compact&langs_count=8&theme=merko&card_width=320" />
 </a>
 
 ## Languages
