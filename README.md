@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working to create Landing Pages helping customer journey and improve marketing ROI.
-- 🌱 I’m currently learning JS, React, AI and Front End Frameworks.
-- ⚡ Fun fact: I'm former Electrical Engineer who migrated to Project Management and has passion with software development.
+- 🔭 I’m currently working to create Landing Pages and Apps helping customer journey and improve marketing ROI.
+- 🌱 I’m currently learning JS, React and, Front End Frameworks.
+- ⚡ Fun fact: I'm Electrical Engineer who migrated to Project Management and has passion with software development.
 
 ## Stat's
 
