@@ -1,8 +1,8 @@
 ## Hello stranger 👋
 
-- 🌱 I’m pursuing a Full Stack Developer path and currently working to create landing pages and apps to help customers create their digital identity.
-- ⚡ Fun fact: I'm a former Electrical Engineer (10+ years exp) who recently migrated to a Project Manager role but keeping a secret passion for web and software development.
-- Talking about passion, I'm also building some embedded projects with Raspberry and ESP. (Currently working to setup Magic Mirror with Alexa and Google Gemini)
+- 🌱 I’m pursuing a Full Stack Developer path and currently working in my free time to create landing pages and apps to help customers create their digital identity.
+- ⚡ Fun fact: I'm a former Electrical Engineer (10+ years exp) who recently migrated to a Project Manager role but keeping a secret passion for web and software development. I figured out that I will never leave the technical side of the Force 😆.
+- Talking about passion, after setting up a NAS to store my projects and all my files and a DNS sinkhole to avoid ADs and tracking I'm now integrating Alexa and Gemini into my Magic Mirror. Everything running in a Raspberry Pi4 and managed through openssh.
 
 
 ## Stats
