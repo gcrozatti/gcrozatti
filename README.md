@@ -1,19 +1,19 @@
-## Hi there 👋
+## Hello stranger 👋
 
-- 🔭 I’m currently working to create Landing Pages and Apps helping customer journey and improve marketing ROI.
-- 🌱 I’m currently learning JS, React and, Front End Frameworks.
-- ⚡ Fun fact: I'm Electrical Engineer who migrated to Project Management and has passion with software development.
+- 🌱 I’m pursuing a Full Stack Developer path and currently working to create landing pages and apps to help customers create their digital identity.
+- ⚡ Fun fact: I'm a former Electrical Engineer (10+ years exp) who recently migrated to a Project Manager role but keeping a secret passion for web and software development.
+- Talking about passion, I'm also building some embedded projects with Raspberry and ESP. (Currently working to setup Magic Mirror with Alexa and Google Gemini)
 
-## Stat's
 
+## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=gcrozatti&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcrozatti&hide_progress=true&layout=compact&langs_count=8&theme=merko&card_width=320" />
+  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=gcrozatti&hide_rank=true&hide_title=true&border_radius=8&show_icons=true&theme=transparent&card_width=320" />
 </a>
 
 ## Languages
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcrozatti&hide_progress=true&border_radius=8&layout=compact&langs_count=8&theme=transparent&card_width=320" />
+</a><br/><br/>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,8 +24,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-## Social Medias
-
+## Social Media
 <div>
   <a href="https://www.linkedin.com/in/gcrozatti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gcrozatti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
