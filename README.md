@@ -1,8 +1,8 @@
 ## Hello stranger 👋
 
 - 🌱 I'm on the Full Stack Developer track, spending my free time building landing pages and apps.
-- ⚡ Fun fact: Switched from Electrical Engineer (10+ years) to Project Manager, but secretly still a tech Jedi at heart. Can't shake the allure of the dark side... of coding! 😆.
-- I have already built a lot of cool stuff. :green_heart:
+- ⚡ Fun fact: Switched from Electrical Engineering (10+ years) to Project Manager (2+ years), but secretly still a tech Jedi at :green_heart:. Can't shake the allure of the dark side... of coding! 😆.
+- I have already built a lot of cool stuff. I'll try to share with everyone :sunglasses:
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
