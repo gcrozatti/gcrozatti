@@ -1,4 +1,3 @@
-# Hello and Welcome 👋, I'm Gabriel Crozatti
 ## I'm just someone in somewhere.
 
 ## Languages
